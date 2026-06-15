@@ -6,6 +6,22 @@
 
 ---
 
+## Round 0: Exhaustive Clarification (2 Rounds Minimum)
+
+```
+I'm considering working on [TOPIC]. Before we start any refinement, I want you to ask me the hard questions first.
+
+ROUND 0.1 — Ask me 4-5 questions that will clarify what I actually need. Cover: form, audience, constraints, success criteria, relationship to existing work, evolution mechanism, boundaries.
+
+ROUND 0.2 — After I answer, ask me 3-5 MORE questions. These should be the NON-obvious ones — the things I haven't thought about, the tensions I'm avoiding, the assumptions I'm making without knowing it.
+
+Keep asking rounds of questions until you genuinely have no more questions. Then say "Entering Round 1" and begin the refinement process.
+
+Do NOT start refining yet. Just ask questions.
+```
+
+---
+
 ## Round 1: Ontological Positioning
 
 ```

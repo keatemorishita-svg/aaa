@@ -20,7 +20,10 @@ I'm working on a concept/framework/system called [NAME]. Here's a brief descript
 
 [2-3 SENTENCES]
 
-I want you to run a structured adversarial refinement process. Start with Round 1.
+I want you to run a structured adversarial refinement process. But first — ask questions.
+
+ROUND 0 — EXHAUSTIVE CLARIFICATION (2 rounds minimum):
+Before refining anything, ask me 4-5 questions about [NAME] to clarify what I actually need. Cover: form, audience, constraints, success criteria, relationship to existing work, evolution mechanism, boundaries. After I answer, ask 3-5 MORE questions — the non-obvious ones. Keep going until you have no more questions. Then say "Entering Round 1."
 
 ROUND 1 — ONTOLOGICAL POSITIONING:
 1. Define [NAME] in one sentence (max 30 words). Strip all adjectives.

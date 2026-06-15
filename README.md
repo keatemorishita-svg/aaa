@@ -4,6 +4,16 @@
 
 ---
 
+## 🛠 Start Here
+
+**This repository ships with a tool you can use right now.**
+
+It's called the **SOP** — a 6-round adversarial refinement process. It stress-tests any conceptual framework before you publish it. This is the same method that built AAA itself.
+
+**[→ Copy the SOP prompt](SOP.md) · Paste into Claude · Run 6 rounds · Your framework survives or it dies. Either way, you win.**
+
+---
+
 ## 🧠 Why AAA
 
 Modern systems are reaching their limits:

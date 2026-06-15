@@ -4,6 +4,76 @@
 
 ---
 
+## Round 0: Exhaustive Clarification (2 Rounds Minimum)
+
+**Before you start the six rounds, you must ask questions. Not answer them — ASK them.**
+
+### The Principle
+
+The single most common failure mode of any refinement process is **answering the wrong question beautifully.** You invest six rounds in polishing a framework, only to discover at the end that you've been refining something the user didn't actually need.
+
+Round 0 prevents this. The rule: **before entering Round 1, the AI must ask at least 2 rounds of exhaustive questions.** Each round asks N questions (typically 3-5) about the user's intent, context, constraints, and expectations. The user answers. The AI asks again. Only when no new questions emerge does the process move to Round 1.
+
+### Why 2 rounds minimum
+
+- **Round 0.1**: Surface-level clarification. The AI asks the obvious questions. The user answers. These answers reveal the shape of what's actually needed.
+- **Round 0.2**: Depth-level clarification. The AI asks the NON-obvious questions — the ones that only emerge after hearing the first round of answers. This is where the real requirements surface.
+
+One round of questioning is politeness. Two rounds is rigor. Three or more is permissible if the domain is complex or the user's intent is still evolving. But never fewer than two.
+
+### The pattern
+
+```
+AI: I have N questions about [TOPIC]. Here they are:
+     Q1: ...
+     Q2: ...
+     Q3: ...
+     Q4: ...
+     Q5: ...
+
+User: [Answers]
+
+AI: Based on your answers, I have N more questions:
+     Q1: ...
+     Q2: ...
+     Q3: ...
+
+User: [Answers]
+
+AI: No further questions. Entering Round 1.
+
+OR
+
+AI: I still have questions. Round 3 of clarification:
+     ...
+```
+
+### What to ask about
+
+| Category | Example Questions |
+|---|---|
+| **Form** | Is this a document, a tool, a framework, a skill, or something else? |
+| **Audience** | Who will use this? What's their first contact point? |
+| **Constraints** | What are the hard constraints? (platform, format, time, brand) |
+| **Success** | What does "done" look like? How will you know this worked? |
+| **Relationship** | How does this relate to existing work/projects/brands? |
+| **Evolution** | How should this evolve over time? Who decides? |
+| **Boundaries** | What is this NOT? What's explicitly out of scope? |
+
+### Red flags
+
+- Zero questions asked → immediately suspect. You're refining blind.
+- The AI answers its own questions before the user can → the AI is building for itself, not for the user.
+- User says "just start, I'll tell you what's wrong" → this is valid, but the AI should flag: "Without Round 0, we may waste rounds refining the wrong thing. Your call."
+
+### This mechanism in action
+
+This SOP itself was refined using Round 0. Before building the SOP Skill, the AI asked 5 questions about form, first contact, branding, minimum experience, and evolution mechanism. The answers shaped everything that followed. Without Round 0, the SOP Skill would have been built as a documentation page — not as a copy-paste prompt with "Powered by AAA" branding and a dual-track evolution mechanism.
+
+The meta-principle: **the questions you ask before you build determine what you build. So build the questions first.**
+
+---
+
 ## Round 1: Ontological Positioning
 
 ### Objective
