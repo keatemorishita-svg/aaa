@@ -1,8 +1,8 @@
-# Tax Calculator · 个人所得税计算器
+﻿# Tax Calculator · 个人所得税计算器
 
 > Chinese IIT calculator — monthly withholding + year-end bonus optimization. Zero dependencies.
 
-**Repo**: [keatemorishita-svg/tax-calculator](https://github.com/keatemorishita-svg/tax-calculator)
+**Repo**: [aaa-mvc/tax-calculator](https://github.com/aaa-mvc/tax-calculator)
 
 ---
 

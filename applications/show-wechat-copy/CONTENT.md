@@ -1,8 +1,8 @@
-# Show · 朋友圈文案
+﻿# Show · 朋友圈文案
 
 > AI WeChat Moments copy generator — 3-axis customization × 4 tones.
 
-**Repo**: [keatemorishita-svg/show](https://github.com/keatemorishita-svg/show)
+**Repo**: [aaa-mvc/show](https://github.com/aaa-mvc/show)
 
 ---
 

@@ -1,8 +1,8 @@
-# AGA — Agent Governance & Assurance
+﻿# AGA — Agent Governance & Assurance
 
 > `npm audit` for AI Agent Skills — scan before you deploy.
 
-**Repo**: [keatemorishita-svg/aga](https://github.com/keatemorishita-svg/aga)
+**Repo**: [aaa-mvc/aga](https://github.com/aaa-mvc/aga)
 
 ---
 

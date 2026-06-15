@@ -1,4 +1,4 @@
-# AAA — Governance
+﻿# AAA — Governance
 
 > "No permanent center. Centers exist locally and decay."
 
@@ -79,7 +79,7 @@ If the fork gains more usage, contributors, and vitality than the original, the 
 ## Succession Plan
 
 ### Current State
-- **Maintainer**: keatemorishita-svg
+- **Maintainer**: aaa-mvc
 - **Named successor**: None (project is pre-community)
 - **Succession trigger**: Maintainer absence > 90 days without notice
 

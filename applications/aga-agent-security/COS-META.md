@@ -1,11 +1,11 @@
-# COS-META
+﻿# COS-META
 
 ## Identity
 - **Name**: AGA — Agent Governance & Assurance
-- **Author**: keatemorishita-svg
+- **Author**: aaa-mvc
 - **Version**: 1.0
 - **Date**: 2026-06
-- **Repo**: https://github.com/keatemorishita-svg/aga
+- **Repo**: https://github.com/aaa-mvc/aga
 
 ## Architecture Mapping
 

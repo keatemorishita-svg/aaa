@@ -1,8 +1,8 @@
-# Ana — Obsidian Vault Scanner
+﻿# Ana — Obsidian Vault Scanner
 
 > Theme clustering, heatmaps, dormant notes, AI cognitive insights. Zero config.
 
-**Repo**: [keatemorishita-svg/ana](https://github.com/keatemorishita-svg/ana)
+**Repo**: [aaa-mvc/ana](https://github.com/aaa-mvc/ana)
 
 ---
 

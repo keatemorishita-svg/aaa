@@ -1,11 +1,11 @@
-# COS-META
+﻿# COS-META
 
 ## Identity
 - **Name**: ATA — Atlas Time Archive
-- **Author**: keatemorishita-svg
+- **Author**: aaa-mvc
 - **Version**: 1.0
 - **Date**: 2026-06
-- **Repo**: https://github.com/keatemorishita-svg/ata
+- **Repo**: https://github.com/aaa-mvc/ata
 
 ## Architecture Mapping
 

@@ -1,8 +1,8 @@
-# Builder OS (ABA)
+﻿# Builder OS (ABA)
 
 > Follow builders, not influencers — 6 AI personas analyze daily news into structured knowledge.
 
-**Repo**: [keatemorishita-svg/aba](https://github.com/keatemorishita-svg/aba)
+**Repo**: [aaa-mvc/aba](https://github.com/aaa-mvc/aba)
 
 ---
 

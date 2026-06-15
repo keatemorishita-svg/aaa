@@ -1,8 +1,8 @@
-# ACA — Transcript Timestamp Cleaner
+﻿# ACA — Transcript Timestamp Cleaner
 
 > You do one thing: Ctrl+V. The plugin does the rest.
 
-**Repo**: [keatemorishita-svg/aca](https://github.com/keatemorishita-svg/aca)
+**Repo**: [aaa-mvc/aca](https://github.com/aaa-mvc/aca)
 
 ---
 

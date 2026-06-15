@@ -1,11 +1,11 @@
-# COS-META
+﻿# COS-META
 
 ## Identity
 - **Name**: Builder OS (ABA)
-- **Author**: keatemorishita-svg
+- **Author**: aaa-mvc
 - **Version**: 1.0
 - **Date**: 2026-06
-- **Repo**: https://github.com/keatemorishita-svg/aba
+- **Repo**: https://github.com/aaa-mvc/aba
 
 ## Architecture Mapping
 

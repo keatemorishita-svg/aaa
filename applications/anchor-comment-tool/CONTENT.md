@@ -1,8 +1,8 @@
-# Anchor · 评论区神器
+﻿# Anchor · 评论区神器
 
 > Every comment is an anchor cast out. AI-powered comment generation for genuine connection.
 
-**Repo**: [keatemorishita-svg/anchor](https://github.com/keatemorishita-svg/anchor)
+**Repo**: [aaa-mvc/anchor](https://github.com/aaa-mvc/anchor)
 
 ---
 

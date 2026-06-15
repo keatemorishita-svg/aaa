@@ -1,11 +1,11 @@
-# COS-META
+﻿# COS-META
 
 ## Identity
 - **Name**: Tax Calculator · 个人所得税计算器
-- **Author**: keatemorishita-svg
+- **Author**: aaa-mvc
 - **Version**: 1.0
 - **Date**: 2026-06
-- **Repo**: https://github.com/keatemorishita-svg/tax-calculator
+- **Repo**: https://github.com/aaa-mvc/tax-calculator
 
 ## Architecture Mapping
 

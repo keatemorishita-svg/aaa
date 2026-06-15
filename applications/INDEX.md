@@ -22,14 +22,14 @@
 
 | 应用 | 作者 | 层 | 成熟度 | 描述 |
 |---|---|---|---|---|
-| [aba-builder-os](./aba-builder-os/) | keatemorishita-svg | Cognition / Evolution | Evolving | 6 AI personas analyze daily news → structured knowledge network |
-| [aca-transcript-cleaner](./aca-transcript-cleaner/) | keatemorishita-svg | Protocol / Execution | Stable | Auto-strip timestamps from transcripts — 8 formats, 3-pass regex |
-| [aga-agent-security](./aga-agent-security/) | keatemorishita-svg | **Constraint** / Protocol | Evolving | `npm audit` for AI Agent Skills — first Constraint Layer app |
-| [ana-vault-scanner](./ana-vault-scanner/) | keatemorishita-svg | Cognition / Evolution | Evolving | Obsidian vault scanner — clustering, heatmaps, dormant notes |
-| [ata-atlas-time-archive](./ata-atlas-time-archive/) | keatemorishita-svg | Execution / Cognition | Evolving | Windows desktop session recovery — save & restore workspace |
-| [anchor-comment-tool](./anchor-comment-tool/) | keatemorishita-svg | Execution / Protocol | Stable | AI comment generator for short-video platforms — 3×6×4 matrix |
-| [show-wechat-copy](./show-wechat-copy/) | keatemorishita-svg | Execution / Protocol | Stable | AI WeChat Moments copy — 4-axis customization × 4 tones |
-| [tax-calculator](./tax-calculator/) | keatemorishita-svg | Execution / Protocol | Stable | Chinese IIT calculator — zero dependencies, pure client-side |
+| [aba-builder-os](./aba-builder-os/) | aaa-mvc | Cognition / Evolution | Evolving | 6 AI personas analyze daily news → structured knowledge network |
+| [aca-transcript-cleaner](./aca-transcript-cleaner/) | aaa-mvc | Protocol / Execution | Stable | Auto-strip timestamps from transcripts — 8 formats, 3-pass regex |
+| [aga-agent-security](./aga-agent-security/) | aaa-mvc | **Constraint** / Protocol | Evolving | `npm audit` for AI Agent Skills — first Constraint Layer app |
+| [ana-vault-scanner](./ana-vault-scanner/) | aaa-mvc | Cognition / Evolution | Evolving | Obsidian vault scanner — clustering, heatmaps, dormant notes |
+| [ata-atlas-time-archive](./ata-atlas-time-archive/) | aaa-mvc | Execution / Cognition | Evolving | Windows desktop session recovery — save & restore workspace |
+| [anchor-comment-tool](./anchor-comment-tool/) | aaa-mvc | Execution / Protocol | Stable | AI comment generator for short-video platforms — 3×6×4 matrix |
+| [show-wechat-copy](./show-wechat-copy/) | aaa-mvc | Execution / Protocol | Stable | AI WeChat Moments copy — 4-axis customization × 4 tones |
+| [tax-calculator](./tax-calculator/) | aaa-mvc | Execution / Protocol | Stable | Chinese IIT calculator — zero dependencies, pure client-side |
 
 ---
 
