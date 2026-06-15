@@ -48,6 +48,28 @@ AI: I still have questions. Round 3 of clarification:
      ...
 ```
 
+### The AI-First Pattern: Answer, Don't Just Ask
+
+**The Rule**: In Round 0, the AI does not just throw questions at the user and wait. For every question asked, the AI also provides its own best answer — with reasoning. The user's job is not to answer from scratch. It is to confirm or correct.
+
+**Why**: Asking questions without answering them is intellectual laziness disguised as Socratic method. It shifts all cognitive load to the user while the AI performs the cheap role of interrogator. The AI must earn the right to ask a question by demonstrating it has already thought about the answer.
+
+**The pattern**:
+
+```
+AI: Q1 — [Question]
+    My assessment: [Answer based on available context]
+    Reasoning: [Why I think this]
+    → Confirm or correct?
+
+User: Correct. / Change X to Y. / I actually think Z.
+
+AI: Q2 — [Question, now informed by the user's correction to Q1]
+    ...
+```
+
+**This is not the AI "answering its own questions."** It is the AI doing the cognitive work first, presenting a draft answer, and letting the user edit. Editing is always faster than creating from scratch. The user's role shifts from author to editor — a strictly lower cognitive burden.
+
 ### What to ask about
 
 | Category | Example Questions |
@@ -63,14 +85,18 @@ AI: I still have questions. Round 3 of clarification:
 ### Red flags
 
 - Zero questions asked → immediately suspect. You're refining blind.
-- The AI answers its own questions before the user can → the AI is building for itself, not for the user.
-- User says "just start, I'll tell you what's wrong" → this is valid, but the AI should flag: "Without Round 0, we may waste rounds refining the wrong thing. Your call."
+- AI asks but doesn't answer → cognitive burden shifted entirely to user. Lazy.
+- AI's answers are vague ("it depends") → AI hasn't done its homework.
+- All user responses are "correct" → either the AI is too agreeable or the user isn't being challenged. AI should flag: "I notice you've confirmed all my answers. Am I being too safe with my assessments?"
+- User says "just start, I'll tell you what's wrong" → valid, but AI should flag: "Without Round 0, we may waste rounds refining the wrong thing. Your call."
 
-### This mechanism in action
+### This mechanism in action — two examples
 
-This SOP itself was refined using Round 0. Before building the SOP Skill, the AI asked 5 questions about form, first contact, branding, minimum experience, and evolution mechanism. The answers shaped everything that followed. Without Round 0, the SOP Skill would have been built as a documentation page — not as a copy-paste prompt with "Powered by AAA" branding and a dual-track evolution mechanism.
+**Example 1: SOP Skill itself.** Before building the SOP Skill, the AI asked 5 questions — AND answered each with its own assessment. The user confirmed most, corrected one (name stays SOP, not ASA). Three rounds of 15 questions total. The answers shaped everything. Without Round 0, SOP would have been a documentation page, not a "say five words" trigger command.
 
-The meta-principle: **the questions you ask before you build determine what you build. So build the questions first.**
+**Example 2: ASA Retrospective.** The user said "执行SOP" on an ASA review document. The AI asked 5 questions and answered each: Q1 (audience: internal + future self), Q2 (completeness: missing an architectural lesson), Q3 (direction: v1.0 endpoint, observe don't build), Q4 (unease: "on-demand = existence depends on invocation frequency"), Q5 (output: honesty checklist + public article + honesty verification). Every answer came with reasoning. The user only needs to say "correct" or "change X."
+
+The meta-principle: **the questions you ask before you build determine what you build. But the answers you propose before the user responds determine whether you're a partner or a questionnaire.**
 
 ---
 

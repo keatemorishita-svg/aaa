@@ -9,15 +9,14 @@
 ## Round 0: Exhaustive Clarification (2 Rounds Minimum)
 
 ```
-I'm considering working on [TOPIC]. Before we start any refinement, I want you to ask me the hard questions first.
+I'm considering working on [TOPIC]. Before we start any refinement:
+Apply the AI-First pattern — for every question you ask, ALSO give your best answer with reasoning. I'll confirm or correct. Editing is cheaper than creating.
 
-ROUND 0.1 — Ask me 4-5 questions that will clarify what I actually need. Cover: form, audience, constraints, success criteria, relationship to existing work, evolution mechanism, boundaries.
+ROUND 0.1 — Ask me 4-5 questions. Cover: form, audience, constraints, success criteria, relationship to existing work, evolution mechanism, boundaries. Answer each with your assessment. Let me confirm or correct.
 
-ROUND 0.2 — After I answer, ask me 3-5 MORE questions. These should be the NON-obvious ones — the things I haven't thought about, the tensions I'm avoiding, the assumptions I'm making without knowing it.
+ROUND 0.2 — Ask me 3-5 MORE questions. Non-obvious ones — informed by my corrections. Answer each. Keep going until no new questions emerge. Then say "Entering Round 1."
 
-Keep asking rounds of questions until you genuinely have no more questions. Then say "Entering Round 1" and begin the refinement process.
-
-Do NOT start refining yet. Just ask questions.
+The user's job is to edit your draft answers. Not to create from scratch.
 ```
 
 ---
