@@ -88,7 +88,7 @@ This is what AAA itself produced when run through the same SOP:
 | Round | Finding |
 |---|---|
 | 0 | 5 questions clarified form, audience, brand, experience, evolution |
-| 1 | AAA = minimal generative grammar for open systems |
+| 1 | AAA = MVC — Minimum Viable Civilization |
 | 2 | 19 propositions: 3 strong, 5 weak, 3 hidden claims |
 | 3 | Kill shot: "So What?" — no documented case study |
 | 4 | 8 dimension blind spots; missing immune system is critical |

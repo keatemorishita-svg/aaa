@@ -102,7 +102,7 @@ We design systems that can redesign themselves.
 
 ## 🌌 What AAA Actually Is
 
-> AAA is a minimal generative grammar that defines the conditions under which any system can continuously evolve without centralized control.
+> AAA is a Minimum Viable Civilization — the smallest set of conditions under which any system can continuously evolve without centralized control.
 >
 > That grammar, planted in a shared space and tended by those who inhabit it, grows into something more.
 >
@@ -110,7 +110,7 @@ We design systems that can redesign themselves.
 >
 > ---
 >
-> AAA 是一种最小生成语法，它定义了任何系统无需集中控制即可持续演化的条件。
+> AAA 是一种最小可行文明（MVC）——它定义了任何系统无需集中控制即可持续进化的最小条件集。
 >
 > 这种语法被植入共享空间，并由居住其中的人们精心维护，最终成长为更强大的存在。
 >
