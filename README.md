@@ -108,6 +108,36 @@ We design systems that can redesign themselves.
 
 ---
 
+## 🏪 App Store — 14 Applications
+
+### Core
+
+| App | Layer | Description |
+|---|---|---|
+| [tool-comparison](applications/tool-comparison/) | Cognition | 10-dimension AI tool comparison |
+| [agent-first-workflow](applications/agent-first-workflow/) | Execution | AI-native development paradigm |
+| [fable-5-analysis](applications/fable-5-analysis/) | Cognition | Model vs tool hierarchy |
+| [naming-conventions](applications/naming-conventions/) | Protocol | File naming as minimum viable protocol |
+| [refinement-sop](applications/refinement-sop/) | Evolution | 6-round adversarial refinement |
+| [core-questions](applications/core-questions/) | Cognition | 10 adversarial probes of AAA |
+
+### Community
+
+| App | Layer | Repo |
+|---|---|---|
+| [Builder OS](applications/aba-builder-os/) | Cognition | [aba](https://github.com/keatemorishita-svg/aba) |
+| [Transcript Cleaner](applications/aca-transcript-cleaner/) | Protocol | [aca](https://github.com/keatemorishita-svg/aca) |
+| [Agent Security](applications/aga-agent-security/) | Constraint | [aga](https://github.com/keatemorishita-svg/aga) |
+| [Vault Scanner](applications/ana-vault-scanner/) | Cognition | [ana](https://github.com/keatemorishita-svg/ana) |
+| [Atlas Time Archive](applications/ata-atlas-time-archive/) | Execution | [ata](https://github.com/keatemorishita-svg/ata) |
+| [Anchor](applications/anchor-comment-tool/) | Execution | [anchor](https://github.com/keatemorishita-svg/anchor) |
+| [Show](applications/show-wechat-copy/) | Execution | [show](https://github.com/keatemorishita-svg/show) |
+| [Tax Calculator](applications/tax-calculator/) | Execution | [tax-calculator](https://github.com/keatemorishita-svg/tax-calculator) |
+
+→ [Full App Store Index](applications/INDEX.md) · [Submit your app](applications/APP-STORE-PROTOCOL.md)
+
+---
+
 ## 🌱 Final Statement
 
 AAA is not a product.
