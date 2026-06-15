@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B0F19"/>
+      <stop offset="100%" style="stop-color:#141929"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#bg2)"/>
+
+  <!-- Title -->
+  <text x="300" y="35" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="16" font-weight="bold">The Evolution Loop</text>
+
+  <!-- Loop nodes in a cycle with curved arrows -->
+  <!-- Fork -->
+  <circle cx="120" cy="200" r="35" fill="#0B0F19" stroke="#4DA3FF" stroke-width="2"/>
+  <text x="120" y="195" text-anchor="middle" fill="#4DA3FF" font-family="monospace" font-size="12">⎇</text>
+  <text x="120" y="215" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="10">Fork</text>
+  <text x="120" y="255" text-anchor="middle" fill="#8B95A8" font-family="Inter, sans-serif" font-size="8">Divergence</text>
+
+  <!-- Arrow Fork→Experiment -->
+  <path d="M155,190 Q220,140 270,190" fill="none" stroke="#4DA3FF" stroke-width="1.5" marker-end="url(#arrowBlue)"/>
+  <defs><marker id="arrowBlue" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#4DA3FF"/></marker></defs>
+
+  <!-- Experiment -->
+  <circle cx="300" cy="200" r="35" fill="#0B0F19" stroke="#2EE59D" stroke-width="2"/>
+  <text x="300" y="195" text-anchor="middle" fill="#2EE59D" font-family="monospace" font-size="12">⚗</text>
+  <text x="300" y="215" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="10">Experiment</text>
+  <text x="300" y="255" text-anchor="middle" fill="#8B95A8" font-family="Inter, sans-serif" font-size="8">Variation</text>
+
+  <!-- Arrow Experiment→Selection -->
+  <path d="M335,210 Q380,270 420,210" fill="none" stroke="#2EE59D" stroke-width="1.5" marker-end="url(#arrowGreen)"/>
+  <defs><marker id="arrowGreen" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#2EE59D"/></marker></defs>
+
+  <!-- Selection -->
+  <circle cx="480" cy="200" r="35" fill="#0B0F19" stroke="#FFB347" stroke-width="2"/>
+  <text x="480" y="195" text-anchor="middle" fill="#FFB347" font-family="monospace" font-size="12">◇</text>
+  <text x="480" y="215" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="10">Selection</text>
+  <text x="480" y="255" text-anchor="middle" fill="#8B95A8" font-family="Inter, sans-serif" font-size="8">Filtering</text>
+
+  <!-- Arrow Selection→Merge (curve back) -->
+  <path d="M480,240 Q400,340 300,240" fill="none" stroke="#FFB347" stroke-width="1.5"/>
+
+  <!-- Arrow Merge→Fork (curve back) -->
+  <path d="M270,240 Q200,340 120,240" fill="none" stroke="#4DA3FF" stroke-width="1.5"/>
+
+  <!-- Merge (halfway back, bottom) -->
+  <circle cx="300" cy="280" r="35" fill="#0B0F19" stroke="#4DA3FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <text x="300" y="275" text-anchor="middle" fill="#4DA3FF" font-family="monospace" font-size="12">⤿</text>
+  <text x="300" y="295" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="10">Merge</text>
+  <text x="300" y="335" text-anchor="middle" fill="#8B95A8" font-family="Inter, sans-serif" font-size="8">Integration</text>
+
+  <!-- Repeat label -->
+  <text x="120" y="355" text-anchor="middle" fill="#2EE59D" font-family="monospace" font-size="9">⟳ Repeat</text>
+
+  <!-- Bottom text -->
+  <text x="300" y="385" text-anchor="middle" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">The universal mechanism of complex adaptive systems</text>
+</svg>

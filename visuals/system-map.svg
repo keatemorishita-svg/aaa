@@ -1,0 +1,74 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B0F19"/>
+      <stop offset="100%" style="stop-color:#141929"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4DA3FF"/>
+      <stop offset="100%" style="stop-color:#2EE59D"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="400" y="45" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="20" font-weight="bold">AAA — System Map</text>
+
+  <!-- Central Loop (circular arrangement) -->
+  <!-- Fork Node -->
+  <circle cx="400" cy="180" r="45" fill="none" stroke="#4DA3FF" stroke-width="2"/>
+  <text x="400" y="175" text-anchor="middle" fill="#4DA3FF" font-family="monospace" font-size="13">⎇</text>
+  <text x="400" y="195" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="12">Fork</text>
+
+  <!-- Experiment Node -->
+  <circle cx="590" cy="350" r="45" fill="none" stroke="#2EE59D" stroke-width="2"/>
+  <text x="590" y="345" text-anchor="middle" fill="#2EE59D" font-family="monospace" font-size="13">⚗</text>
+  <text x="590" y="365" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="12">Experiment</text>
+
+  <!-- Selection Node -->
+  <circle cx="400" cy="420" r="45" fill="none" stroke="#FFB347" stroke-width="2"/>
+  <text x="400" y="415" text-anchor="middle" fill="#FFB347" font-family="monospace" font-size="13">◇</text>
+  <text x="400" y="435" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="12">Selection</text>
+
+  <!-- Merge Node -->
+  <circle cx="210" cy="350" r="45" fill="none" stroke="#4DA3FF" stroke-width="2"/>
+  <text x="210" y="345" text-anchor="middle" fill="#4DA3FF" font-family="monospace" font-size="13">⤿</text>
+  <text x="210" y="365" text-anchor="middle" fill="#E8ECF1" font-family="Inter, sans-serif" font-size="12">Merge</text>
+
+  <!-- Connecting lines (Fork→Experiment) -->
+  <line x1="440" y1="200" x2="555" y2="320" stroke="url(#edge)" stroke-width="1.5"/>
+  <!-- Experiment→Selection -->
+  <line x1="555" y1="380" x2="440" y2="410" stroke="url(#edge)" stroke-width="1.5"/>
+  <!-- Selection→Merge -->
+  <line x1="360" y1="400" x2="250" y2="370" stroke="url(#edge)" stroke-width="1.5"/>
+  <!-- Merge→Fork -->
+  <line x1="250" y1="320" x2="360" y2="200" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <!-- Layer Labels (right side) -->
+  <text x="700" y="160" fill="#4DA3FF" font-family="Inter, sans-serif" font-size="11">Cognition</text>
+  <text x="700" y="185" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">Understanding reality</text>
+
+  <text x="700" y="225" fill="#4DA3FF" font-family="Inter, sans-serif" font-size="11">Protocol</text>
+  <text x="700" y="250" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">Interaction rules</text>
+
+  <text x="700" y="290" fill="#4DA3FF" font-family="Inter, sans-serif" font-size="11">Execution</text>
+  <text x="700" y="315" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">System actions</text>
+
+  <text x="700" y="355" fill="#4DA3FF" font-family="Inter, sans-serif" font-size="11">Evolution</text>
+  <text x="700" y="380" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">Self-improvement</text>
+
+  <!-- Primitives (bottom) -->
+  <text x="100" y="530" fill="#2EE59D" font-family="monospace" font-size="11">Access</text>
+  <text x="100" y="550" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">Enter the system</text>
+
+  <text x="280" y="530" fill="#2EE59D" font-family="monospace" font-size="11">Mutation</text>
+  <text x="280" y="550" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">Change the system</text>
+
+  <text x="470" y="530" fill="#2EE59D" font-family="monospace" font-size="11">Recursion</text>
+  <text x="470" y="550" fill="#8B95A8" font-family="Inter, sans-serif" font-size="9">Accept its own change</text>
+
+  <!-- Footer -->
+  <text x="400" y="590" text-anchor="middle" fill="#4DA3FF" font-family="Inter, sans-serif" font-size="9">Let systems evolve themselves</text>
+</svg>
