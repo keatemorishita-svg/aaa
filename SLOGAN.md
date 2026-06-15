@@ -2,6 +2,10 @@
 
 ## Primary
 
+> MVC — Minimum Viable Civilization.
+
+## Alternates
+
 > Let systems evolve themselves.
 
 ---

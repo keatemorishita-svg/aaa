@@ -1,6 +1,6 @@
 ﻿# 🌐 AAA
 
-> A civilization-scale system that evolves without centralized control.
+> MVC — Minimum Viable Civilization.
 
 ---
 
@@ -92,14 +92,19 @@ We design systems that can redesign themselves.
 
 ## 🌌 What AAA Actually Is
 
-> A civilization begins with a theory. But it is more —
-> a kernel, a method, a set of working applications, a memory,
-> and an evolution protocol — all inhabiting one space,
-> evolving together.
+> AAA is a minimal generative grammar that defines the conditions under which any system can continuously evolve without centralized control.
 >
-> 一个文明首先是一套理论。但它不止于理论——
-> 它是一颗内核、一套方法、一组工作应用、一份记忆、
-> 一个进化协议——共处于一个空间，共同进化。
+> That grammar, planted in a shared space and tended by those who inhabit it, grows into something more.
+>
+> A civilization begins with a theory. But it is more — a kernel, a method, a set of working applications, a memory, and an evolution protocol — all inhabiting one space, evolving together.
+>
+> ---
+>
+> AAA 是一种最小生成语法，它定义了任何系统无需集中控制即可持续演化的条件。
+>
+> 这种语法被植入共享空间，并由居住其中的人们精心维护，最终成长为更强大的存在。
+>
+> 文明始于理论。但它远不止于此——它包含内核、方法、一组可运行的应用程序、内存和演化协议——所有这些都位于同一个空间中，共同进化。
 
 ---
 
