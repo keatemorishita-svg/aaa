@@ -160,7 +160,38 @@ Turn the abstract concepts of [TOPIC] into tools that someone can use without yo
 
 ---
 
+## Round 7: Publication & Distribution (5 Deliverables)
+
+```
+Now prepare [TOPIC] for public discovery and use. Deliver all five:
+
+1. GITHUB REPO DESCRIPTION (330 bytes, bilingual):
+   Write a single description that fits within GitHub's 330-byte limit. Must contain: what it is, how to trigger it, and the win condition. In English AND Chinese.
+
+2. TWENTY SEARCH KEYWORDS (4 tiers × 5):
+   - Tier 1 (High intent): They're looking for exactly this
+   - Tier 2 (Specific use): They have this exact problem
+   - Tier 3 (Method): They want this way of working
+   - Tier 4 (Ecosystem): Cross-linking with related projects
+
+3. DISTRIBUTION ARTICLE:
+   Write a narrative article covering: Origin → Birth → Development → Operation → Solidification → Honesty (known failure modes) → Relationship to larger ecosystem → Call to action.
+
+4. TRIGGER COMMAND (5 words or fewer):
+   A single command that activates [TOPIC]. Preloaded once, triggered forever. Works across all platforms. Bilingual if applicable.
+
+5. GITHUB REPO NAME:
+   Pre-reserve the repository name. Must be: unique, memorable, consistent with naming conventions, and trademark-compatible.
+```
+
+---
+
 ## Usage notes
+
+### Model selection
+- Rounds 0-2: Any capable model works
+- Rounds 3-4: Benefit from the most capable model available
+- Rounds 5-7: Benefit from models with strong practical/product thinking
 
 ### Model selection
 - Rounds 1–2: Any capable model works

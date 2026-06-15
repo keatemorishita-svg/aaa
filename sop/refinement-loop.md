@@ -277,6 +277,92 @@ At this point, you decide:
 
 ---
 
+## Round 7: Publication & Distribution — The Five Deliverables
+
+**After the framework survives, you ship it. Round 7 is the shipping checklist.**
+
+This is not an optional step. A framework that survives six rounds of attack but has no distribution strategy is like a weapon that was forged but never sharpened. Round 7 turns the refined framework into a publicly discoverable, instantly usable, virally spreadable product.
+
+### The Five Deliverables
+
+#### 1. GitHub Repo Description (330 bytes, bilingual)
+
+A single description that fits within GitHub's 330-byte limit. Must contain: what it is, how to trigger it, and the win condition. In both English and Chinese.
+
+**Why 330 bytes**: This is the first and sometimes only text people see in search results. Every character must earn its place.
+
+**Template**:
+```
+[What it is] + [Trigger command] + [Win condition] + [Evolves]  [中文版：是什么 + 怎么触发 + 赢家逻辑 + 进化]
+```
+
+**Example (SOP)**:
+```
+A recursive skill that stress-tests any conceptual framework through 6 rounds of adversarial refinement. Say "Execute SOP" — your framework faces 7 rounds of attack. Survive or die, you win either way. It evolves every time you use it.  执行SOP——六轮攻击，七轮精炼。零安装。零配置。活下来或被杀死，你都是赢家。每用一次，进化一次。
+```
+
+#### 2. Twenty Search Keywords
+
+Twenty keywords across four tiers, optimized for GitHub discoverability.
+
+| Tier | Count | Purpose | Example |
+|---|---|---|---|
+| Tier 1 | 5 | High intent — they're looking for exactly this | `framework stress test`, `adversarial refinement` |
+| Tier 2 | 5 | Specific use case — they have a problem | `ai peer review`, `find flaws in my theory` |
+| Tier 3 | 5 | Method & approach — they want a way of working | `red team your ideas`, `steel man argument prompt` |
+| Tier 4 | 5 | Ecosystem discovery — cross-linking | `recursive self improvement tool`, `ai native methodology` |
+
+**Where they go**: Tier 1 → GitHub Topics. Tier 2-3 → README headers and body. Tier 4 → cross-links with ecosystem projects.
+
+#### 3. Distribution Article (WeChat / Blog)
+
+A narrative article telling the complete story: origin, birth, development, operation, solidification. Not a technical document — a story that makes people want to use the thing.
+
+**Required structure**:
+- Chapter 1: Origin — the pain that caused this to exist
+- Chapter 2: Birth — how it was built (including how it was used on itself)
+- Chapter 3: Development — what broke and how it was fixed
+- Chapter 4: Operation — the trigger command, the experience
+- Chapter 5: Solidification — how it evolves itself
+- Chapter 6: Honesty — its known failure modes (admitted publicly)
+- Chapter 7: Relationship — how it connects to the larger ecosystem (if any)
+- Call to action: the trigger command
+
+#### 4. Trigger Command
+
+A single, memorable command that activates the entire framework. Five words or fewer in the target language.
+
+**Why a trigger command**: Copying prompts is friction. Saying five words is not. The trigger command is the user interface. The prompt is the implementation detail.
+
+**Rules**:
+- Five words or fewer in the target language
+- Works across all platforms (Claude Code, Claude.ai, ChatGPT, any AI tool)
+- Preloaded once; triggered forever after
+- Bilingual if the project is bilingual
+
+**Example (SOP)**: `执行SOP` / `Execute SOP`
+
+#### 5. GitHub Repo Name (pre-reserved)
+
+The repository name must be reserved before publication. It must be: unique, memorable, pronounceable, and consistent with the project's naming system (if any).
+
+**Checklist**:
+- [ ] Repo name matches org/ecosystem naming convention
+- [ ] Name is not already taken by a competing project
+- [ ] Name is pronounceable in the project's primary language
+- [ ] Name can be trademarked if the project grows to that scale
+- [ ] Both `github.com/org-name/repo` and `github.com/org-name` are resolved (org name is repo name if flagship)
+
+### Why Round 7 Exists
+
+The most common failure mode after Round 6 is this: a beautifully refined framework that nobody finds, nobody uses, and nobody forks. Round 7 prevents that.
+
+The five deliverables are not marketing. They are the final layer of the framework's design — the interface between the framework and the world.
+
+A framework that cannot be discovered, triggered, and spread is not a framework. It's a private thought.
+
+---
+
 ## Meta: This SOP Itself
 
 This SOP document was itself refined through the six-round process. It is both the method and an instance of the method — self-referential integrity in action.

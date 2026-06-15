@@ -64,7 +64,14 @@ Take the strongest concepts from [NAME] and turn each into a tool someone can us
 - A measurement instrument
 - A fork guide (where to modify this for different domains)
 
-After all six rounds, summarize:
+ROUND 7 — PUBLICATION & DISTRIBUTION (5 Deliverables):
+1. GitHub Repo Description (330 bytes, bilingual)
+2. 20 Search Keywords (4 tiers × 5)
+3. Distribution Article (narrative: origin → birth → development → operation → solidification)
+4. Trigger Command (5 words or fewer, load-once-trigger-forever)
+5. GitHub Repo Name (pre-reserved, naming convention compliant)
+
+After all rounds, summarize:
 - What survives?
 - What needs to change?
 - Should [NAME] be published, revised, narrowed, or killed?

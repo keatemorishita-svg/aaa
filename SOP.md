@@ -73,6 +73,14 @@ Take the strongest concepts from [NAME] and turn each into a tool someone can us
 - A measurement instrument
 - A fork guide (where to modify this for different domains)
 
+ROUND 7 — PUBLICATION & DISTRIBUTION (5 Deliverables):
+Prepare the framework for public discovery and use:
+1. GitHub Repo Description (330 bytes, bilingual)
+2. 20 Search Keywords (4 tiers × 5, GitHub discoverability)
+3. Distribution Article (origin → birth → development → operation → solidification)
+4. Trigger Command (5 words or fewer, load-once-trigger-forever)
+5. GitHub Repo Name (pre-reserved, naming convention compliant)
+
 After all rounds, summarize:
 - What survives?
 - What needs to change?
@@ -106,6 +114,7 @@ This is what AAA itself produced when run through the same SOP:
 | 4 | 8 dimension blind spots; missing immune system is critical |
 | 5 | 4 user profiles; SOP + 3-primitive diagnostic most valuable |
 | 6 | 4 standalone tools; 14 applications onboarded |
+| 7 | 330-byte bilingual description; 20 keywords; WeChat article; trigger: 执行SOP; repo: aaa-mvc/aaa |
 
 → [Full SOP output](https://github.com/aaa-mvc/aaa/tree/main/sop)
 
