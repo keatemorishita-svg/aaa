@@ -1,14 +1,26 @@
-# SOP — 6-Round Adversarial Refinement
+# SOP · A Skill for Anything
 
-> Stress-test any conceptual framework before you publish it.
-> Copy the prompt. Paste into Claude. Run 6 rounds. Your framework survives or it dies. Either way, you win.
+> Say "Execute SOP" — your framework faces 7 rounds of attack.
+> Survive or die. You win either way.
+> **It evolves every time you use it.**
 
 ---
 
-## Quick Start (30 seconds)
+## SOP is a skill you trigger with five words: 执行SOP
 
-```
-COPY THIS ENTIRE PROMPT INTO A CONVERSATION WITH CLAUDE OR ANY CAPABLE AI:
+You don't copy prompts. You don't configure anything. You say the words, SOP runs.
+
+Behind those five words: 7 rounds of adversarial refinement — clarification, positioning, proposition analysis, weak-point strike, dimension-switch attack, value identification, and operationalization. You see the results. You don't need to know how the engine works.
+
+---
+
+## Quick Start
+
+**Say "执行SOP"** in Claude Code, Claude.ai, ChatGPT, or any AI tool that has SOP preloaded.
+
+**First time only** — load SOP once. Copy the prompt below and say: "Remember this. From now on, when I say '执行SOP', run this process."
+
+After that, five words is all it takes.
 
 ---
 

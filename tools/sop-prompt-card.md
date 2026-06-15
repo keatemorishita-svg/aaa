@@ -1,15 +1,14 @@
 # Tool: SOP Prompt Card
 
-> One prompt. Six rounds. Copy, paste, refine any framework.
+> Five words: **执行SOP**. Your framework faces 7 rounds of attack.
 
 ---
 
 ## How to use
 
-1. Copy the prompt below
-2. Paste into any conversation with Claude, ChatGPT, or any capable AI
-3. Replace `[NAME]` and `[2-3 SENTENCE DESCRIPTION]`
-4. The AI will execute all six rounds sequentially
+**Once**: Load this prompt into your AI tool. Say "Remember this. When I say '执行SOP', run it."
+
+**Every time after**: Say `执行SOP` with your framework. That's it.
 
 ---
 
