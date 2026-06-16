@@ -118,6 +118,14 @@ We design systems that can redesign themselves.
 
 ---
 
+## 📄 Paper
+
+**[MVP to MVC: An Operating System for Civilization-Scale Multi-Agent Systems](PAPER.md)**
+
+A formal treatment of AAA's core framework — from dynamical systems modeling to governance primitives to simulation results. MVC as a constrained phase of multi-agent computation. Available in Chinese.
+
+---
+
 ## 🏪 App Store — 14 Applications
 
 ### Core
