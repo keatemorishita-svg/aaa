@@ -17,29 +17,27 @@ MVP to MVC: 文明尺度多智能体系统的操作系统
 _——从局部优化，到相态稳定的文明底座_
 
 ---
+**目录**
 
+1. 引言
 
-**Table of Contents**
+2. 系统模型：作为动力学机制的 MVP
 
-1. Introduction
-    
-2. System Model: MVP as a Dynamical Regime
-    
-3. MVC: From Product to Civilization‑Phase
-    
-4. Self‑Organization and Fork Dynamics
-    
-5. Experimental System: MVP vs MVC at Scale
-    
-6. Experimental Results (Summary)
-    
-7. Theoretical Positioning of MVC
-    
-8. Civilization as Computation
-    
-9. Synthesis
-    
-10. Implications and Outlook
+3. MVC：从产品到文明阶段
+
+4. 自组织与分叉动力学
+
+5. 实验系统：大规模场景下的 MVP 与 MVC 对比
+
+6. 实验结果（摘要）
+
+7. MVC 的理论定位
+
+8. 作为计算的文明
+
+9. 综合分析
+
+10. 启示与展望
     
     
 ## 1 引言（Introduction）
