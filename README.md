@@ -148,6 +148,30 @@ We design systems that can redesign themselves.
 
 ---
 
+## 👋 Submit Your Project
+
+AAA is an open civilization. Your project belongs here if you built it with AI.
+
+**Four files. One PR. Ten minutes.**
+
+```
+① Fork this repo
+② Copy your project into applications/<your-project-name>/
+③ Add these 4 files:
+   CONTENT.md       — what your project does
+   COS-META.md      — how it maps to AAA architecture (use this template)
+   COS-SOP.md       — how you built it
+   COS-EVOLUTION.md — how others should fork it
+④ Add your project to applications/INDEX.md
+⑤ Open a PR
+```
+
+We review metadata completeness. Not quality. Not ideology. Not "good enough."
+
+→ [Full protocol](applications/APP-STORE-PROTOCOL.md) · [COS template](applications/APP-STORE-PROTOCOL.md#-接口规范如何把任何项目接入-aaa)
+
+---
+
 ## 🌱 Final Statement
 
 AAA is not a product.
